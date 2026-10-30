@@ -3,7 +3,7 @@ Im Nick, a 17 year old backend developer based in Poland. I am interested in avi
 
 ---
 
-- I'm currently working on [24SKY](https://24sky.protekti.xyz) (https://ticket.protekti.xyz/project/1) and [virtualVectors.org](https://virtualvectors.org/)
+- I'm currently working on [24SKY](https://24sky.protekti.xyz) ([Track my progress](https://ticket.protekti.xyz/project/1)) and [virtualVectors.org](https://virtualvectors.org/)
 
 - I'm currently learning making mobile apps using C# .NET MAUI for upcoming exams.
 
